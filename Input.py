@@ -39,10 +39,10 @@ class Input:
         self.AF4    = 0.0
 
     # Save the sensor waves to a file to be read later
-    def saveSensorWaves(fileName='output.csv'):
+    def saveSensorWaves(self, fileName='output.csv'):
         pass
     # Reading the sensor waves for detecing patterns
-    def readSensorWaves(fileName='output.csv'):
+    def readSensorWaves(self, fileName='output.csv'):
         pass
 
     # As far as recording the waves go, the idea is that they will be recorded
@@ -50,9 +50,9 @@ class Input:
     # This will ensure the human can make enough of the "test movement"
     # and that the waves and measurements can be recorded
     # They will be recorded as float values (to whatever signifigant figure is reasonable)
-    def startRecordingWaves(increment=0.1, duration=2):
+    def startRecordingWaves(self, increment=0.1, duration=2):
         pass
-    def stopRecordingWaves():
+    def stopRecordingWaves(self, ):
         pass
 
 
