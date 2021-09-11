@@ -14,7 +14,7 @@
 # Going to purchase these headphones (Mini Wireless Bluetooth 4.1 Stereo Earphone In-ear Sports Headphones)
 # Cheap walmart bluetooth 4.1 headphones
 
-# NAME OF BLUETOOTH DEVICE
+# NAME OF BLUETOOTH DEVICE 
 # 
 # YX-01
 # 
