@@ -7,4 +7,4 @@ Device also takes in inputs such as blinks, mouth movements, other physical move
 To start, usage will focus upon wave signals entirely.
 Basic Classes have been added and will outline how this program will look.
 
-The device has arrived, and today will be the first day of progression with it. ()
+The device has arrived, and today will be the first day of progression with it. (9/22/21)
